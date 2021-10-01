@@ -1,0 +1,3 @@
+C:\Users\Nikita\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5284.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\martixx.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\martixx.dir/objects.a @CMakeFiles\martixx.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\martixx.dir/objects.a -Wl,--no-whole-archive -o martixx.exe -Wl,--out-implib,libmartixx.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\martixx.dir\linklibs.rsp

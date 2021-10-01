@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Nikita/CLionProjects/martixx/cmake-build-debug/expression.h
+stddef.h
+C:/Users/Nikita/CLionProjects/martixx/cmake-build-debug/stddef.h
+
+C:/Users/Nikita/CLionProjects/martixx/cmake-build-debug/matrixx.h
+stddef.h
+-
+
+C:/Users/Nikita/CLionProjects/martixx/main.c
+stdio.h
+-
+malloc.h
+-
+cmake-build-debug/matrixx.h
+C:/Users/Nikita/CLionProjects/martixx/cmake-build-debug/matrixx.h
+cmake-build-debug/expression.h
+C:/Users/Nikita/CLionProjects/martixx/cmake-build-debug/expression.h
+
